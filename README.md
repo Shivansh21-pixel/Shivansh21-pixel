@@ -171,6 +171,12 @@ class Shivansh:
 
 ## 📈 GitHub Stats
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=shivansh21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="165"/>
