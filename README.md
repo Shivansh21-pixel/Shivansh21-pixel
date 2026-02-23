@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💁🏻About Me:
 AI & ML-focused Computer Science student and full-stack developer passionate about building real-world intelligent systems. Creator of Wayan-X, an AI-powered learning and career platform integrating LLM tools, multiplayer systems, and analytics. Experienced in software engineering, system design, and data-driven applications, with strong problem-solving skills from competitive programming.<br>
 
 
